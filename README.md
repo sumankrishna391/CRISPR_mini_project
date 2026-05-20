@@ -37,7 +37,8 @@ Select the most suitable guide(s).
 **Visualize Guides in SnapGene**
 Open the selected guide in SnapGene Viewer or benchling.<img width="1370" height="830" alt="Screenshot 2026-05-20 100217" src="https://github.com/user-attachments/assets/45704010-25f7-47e5-899e-e58808c27154" /> 
 Identify and annotate the PAM sequence: Add a feature, Name and color-code it 
-Add the guide RNA feature:Select direction/orientation, Name and color-code the guide 
+Add the guide RNA feature:Select direction/orientation, Name and color-code the guide <img width="1350" height="747" alt="Screenshot 2026-05-20 095330" src="https://github.com/user-attachments/assets/e1879326-b5d1-41c9-8b92-7366761109c6" />
+
 
 **Confirm Guide Specificity Using BLAST**
 
