@@ -1,4 +1,4 @@
-# CRISPR_mini_project
+# CRISPR Guide RNA Design
 Open the NCBI database.
 Search for the gene of interest (e.g., TP53).<img width="1385" height="899" alt="image" src="https://github.com/user-attachments/assets/4edbbc9b-8068-4d8a-8555-a21cfa2b0498" /> 
 Download the gene sequence in FASTA format.
